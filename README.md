@@ -5,7 +5,7 @@ School project at **HE2B – ESI** (Brussels). I built two Pacman agents in Pyth
 - **AlphaBetaAgent**: minimax search with alpha-beta pruning and a hand-made evaluation function. **Finished.**
 - **RLMinimaxAgent**: the same search, but it *learns* its evaluation function with reinforcement learning (TD(0) with linear features). **Paused (training not finished).**
 
-![Demo of AlphaBetaAgent](demo.gif)
+![Demo of AlphaBetaAgent](docs/demo.gif)
 
 The game engine (maze, ghosts, graphics) is the [UC Berkeley Pacman AI framework](http://ai.berkeley.edu), which my teachers gave us.
 **My code** is `multiAgents.py` and the `multiAgentsUtils/` folder.
